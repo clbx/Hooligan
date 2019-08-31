@@ -13,7 +13,7 @@ Hooligan 0 - 9:  Basic Linux commands (cd, ls, cat, less, man, grep, awk)
 
 Hooligan 10 - 19: Digging a bit deeper (hardware information, disks, the nitty gritty)
 
-Hooligan 20 - 29: Getting funky, encryption, compression, cron, finding a needle in a haystack
+Hooligan 20 - 29: Getting funky, encryption, compression, cron, finding a needle in a haystack, cracking open binaries
 
 Hooligan 30 - 35: ???
 
