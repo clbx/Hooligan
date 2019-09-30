@@ -20,7 +20,7 @@
 
 ssh into hooligan0 at the ip given during the CTF.
 
-the password is hooligan
+the password is hooligan0
 
 It should't be too hard to find the password for hooligan1
 
@@ -34,11 +34,8 @@ the password to hooligan2 is in a file thats 420 bytes in size
 
 ------
 
-the password for hooligan3, is in passwords.txt will the key being BxRufFCjEji9
+the password for hooligan3, is in passwords.txt. The key is BxRufFCjEji9
 
-if you manually look for it, you should drop out now
-
-**Reccomended Commands**: grep
 
 ## hooligan3:
 
@@ -48,7 +45,6 @@ Inside of hooligan3 you will find the password.. somewhere.
 
 the file is owned by "tropical" and the password is 7 bytes large.
 
-**Reccomended Commands**: find (or grep if you're feeling dangerous) 
 
 ## hooligan4:
 
